@@ -35,7 +35,7 @@ else
     set background=dark
 endif
 
-colorscheme archivas_colors
+colorscheme best_colors
 
 
 let g:pydiction_location = '~/.vim/complete-dict' 
